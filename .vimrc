@@ -16,6 +16,9 @@ set modelines=0
 " Show line numbers
 set number
 
+" Set number of undo levels
+set undolevels=1000
+
 " Highlight current line
 set cursorline
 
