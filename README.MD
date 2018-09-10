@@ -14,3 +14,6 @@ $ touch ~/.vimrc
 ```
 
 Learn more on [Vimconfig ](http://vimconfig.com/) website
+
+## Author
+[Dawit Nida](https://github.com/dawitnida)
