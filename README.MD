@@ -11,8 +11,10 @@ $ ln -sf  /path/to/repo/.vimrc ~/.vimrc
 Restart your shell/bash
 
 ```sh
-$ exec -l $SHELL 
-OR
+$ exec -l $SHELL
+
+# OR
+
 $ touch ~/.vimrc
 ```
 
